@@ -1,0 +1,175 @@
+{
+  "company": {
+    "name": "React landing page 2021",
+    "logo": "/assets/images/logo1.png"
+  },
+  "navigation": [
+    {
+      "name": "Product",
+      "href": "product"
+    },
+    {
+      "name": "Features",
+      "href": "features"
+    },
+
+    {
+      "name": "Pricing",
+      "href": "pricing"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "MINDKORE",
+    "subtitle": " POS System",
+    "description": "Transform your restaurant management with MINDKORE POS SYSTEM, a powerful and user-friendly Point of Sale (POS) system. Designed for restaurants of all sizes, it streamlines billing, order tracking, and inventory management. With a sleek interface and real-time analytics, MINDKORE POS SYSTEM empowers you to improve efficiency, enhance customer experience, and grow your business effortlessly.",
+    "img": "/assets/images/Group 1 (2).png",
+    "primaryAction": {
+      "text": "Get started (Demo)",
+      "href": "https://posdemoresto.netlify.app/"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:mindkoresolutions@gmail.com?subject=request for demo"
+    }
+  },
+  "product": {
+    "title": "Our Product",
+    "items": [
+      {
+        "title": "The POS SYSTEM",
+        "description": "MINDKORE POS SYSTEM is a simple yet effective Point of Sale solution designed to streamline your restaurant operations. With its user-friendly interface and efficient order management features, MINDKORE POS SYSTEM helps you focus on delivering excellent service while keeping your operations smooth and hassle-free.",
+        "img": "/assets/images/14.png"
+      },
+      {
+        "title": "The Management System",
+        "description": "MINDKORE Inventory System is a comprehensive solution designed to streamline your inventory management and business operations. It allows you to efficiently manage invoices, track quotations, and generate detailed reports to monitor stock levels and business performance. With its user-friendly interface and powerful features, MINDKORE Inventory System simplifies complex processes, enabling you to stay organized, reduce errors, and focus on growing your business.",
+        "img": "/assets/images/13.png"
+      }
+    ]
+  },
+  "features": {
+      "title": "Features",
+      "subtitle": "Empowering Your Business with Cutting-Edge Solutions!",
+      "description": "In today’s fast-paced world, it’s easy to get overwhelmed by complex systems and cluttered interfaces. That’s why MINDKORE focuses on simplicity and efficiency, ensuring our solutions are as functional as they are user-friendly. Our tools are designed to blend seamlessly into your business operations, with features that feel intuitive and natural to use. Say goodbye to distractions and hello to smooth workflows – where every element serves a purpose, helping you achieve your goals with ease and precision.",
+      "items": [
+        {
+          "name": "Quick Billing",
+          "description": "Generate bills efficiently with minimal errors.",
+          "icon": "FaCashRegister"
+        },
+        {
+          "name": "Menu Customization",
+          "description": "Easily update items, prices, and categories.",
+          "icon": "MdMenuBook"
+        },
+        {
+          "name": "Order Tracking",
+          "description": "Real-time updates on order statuses.",
+          "icon": "AiOutlineOrderedList"
+        },
+        {
+          "name": "Order Management",
+          "description": "Seamlessly handle dine-in, takeaway, and delivery orders.",
+          "icon": "FiShoppingBag"
+        },
+        {
+          "name": "Simple Setup",
+          "description": "Easy installation and minimal training required.",
+          "icon": "AiOutlineSetting"
+        },
+        {
+          "name": "Invoice Management",
+          "description": "Create, track, and store invoices with ease.",
+          "icon": "BsFileEarmarkText"
+        },
+        {
+          "name": "Quotation Handling",
+          "description": "Prepare and manage customer quotations efficiently.",
+          "icon": "BsFileEarmarkText"
+        },
+        {
+          "name": "Stock Tracking",
+          "description": "Monitor stock levels and manage reorders automatically.",
+          "icon": "FiBox"
+        },
+        {
+          "name": "Detailed Reporting",
+          "description": "Generate sales, inventory, and financial reports.",
+          "icon": "HiOutlineDocumentReport"
+        }
+    ]
+    },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "POS SYSTEM",
+        "price": "$0",
+        "priceDetails": "for one user",
+        "features": [
+          "1 user",
+          "Basic Support",
+          "1 GB of storage",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Hardware",
+        "price": "Rs 34,999",
+        "priceDetails": "per user",
+
+        "features": [
+          "Touch Screen Monitor",
+          "Cash Drawer",
+          "Receipt Printer",
+          "24/7 Technical Support"
+        ]
+      },
+      {
+        "name": "Management System",
+        "price": "$29",
+        "priceDetails": "per user",
+        "features": [
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Product",
+        "href": "product"
+      },
+      {
+        "name": "Features",
+        "href": "features"
+      },
+  
+      {
+        "name": "Pricing",
+        "href": "pricing"
+      },
+      {
+        "name": "About",
+        "href": "about"
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/issaafalkattan",
+      "twitter": "https://twitter.com/issaafkattan",
+      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+    }
+  }
+}
